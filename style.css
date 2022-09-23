@@ -40,7 +40,7 @@ body {
   display: flex;
   align-items: start;
   justify-content: center;
-  max-width: 30.5rem;
+  max-width: 32.5rem;
   border-radius: 0.4rem;
 }
 
@@ -48,7 +48,7 @@ body {
 
 .card .card_img img {
   display: flex;
-  max-height: 24.4rem;
+  max-height: 25.4rem;
   border-radius: 0.4rem 0 0 0.4rem;
 }
 
@@ -93,7 +93,7 @@ body {
   display: flex;
   align-items: center;
   gap: 0.8rem;
-  margin-bottom: 1.5rem;
+  margin-bottom: 2.2rem;
 }
 
 .card .card_info .prices .recent_price {
